@@ -35,4 +35,4 @@ const convertHexadecimalToDecimal = (input) => {
   return sum;
 }
 
-// console.log(convertHexadecimalToDecimal('ffffff')); //=> 16777215
+console.log(convertHexadecimalToDecimal('ffffff')); //=> 16777215
